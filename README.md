@@ -5,15 +5,14 @@ I'm a BCA 5th Semester Cyber Security student passionate about Cybersecurity, Cl
 
 I enjoy building practical projects, learning security concepts, and exploring how modern applications and cloud environments can be secured.
 
-🔐 What I'm Currently Doing
-🔭 Working on: Cybersecurity & Cloud Security projects
-🌱 Currently learning: Cybersecurity, Ethical Hacking, Networking, Linux, AWS & DevOps
-👯 Looking to collaborate on: Cybersecurity, Cloud Security, Python & Open Source projects
-🤝 Looking for opportunities: Cybersecurity internships, projects & collaborative learning
-💬 Ask me about: Python, C/C++, Networking, Linux, Git/GitHub, SQL & Cybersecurity fundamentals
-📚 Education: BCA — Cyber Security
-🎯 Goal: To build a strong career in Cybersecurity & Cloud Security
-⚡ Fun fact: I love exploring technology, building projects, gaming 🎮 and watching anime 🍿
+- 🔭 **Working on:** Cybersecurity & Cloud Security projects
+- 🌱 **Currently learning:** Cybersecurity, Ethical Hacking, Networking, Linux, AWS & DevOps
+- 👯 **Looking to collaborate on:** Cybersecurity, Cloud Security, Python & Open Source projects
+- 🤝 **Looking for opportunities:** Cybersecurity internships, projects & collaborative learning
+- 💬 **Ask me about:** Python, C/C++, Networking, Linux, Git/GitHub, SQL & Cybersecurity fundamentals
+- 📚 **Education:** BCA — Cyber Security
+- 🎯 **Career Goal:** Building a strong career in Cybersecurity & Cloud Security
+- ⚡ **Fun fact:** I love exploring technology, building projects, gaming 🎮 and watching anime 🍿
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=gopal2307&theme=radical&no-frame=false&no-bg=true&margin-w=4)
