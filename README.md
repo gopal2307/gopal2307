@@ -1,4 +1,4 @@
-👋 Hi, I'm Gopal Singh Rana
+# 💫 Hi 👋, I'm Gopal Singh Rana
 🛡️ BCA Cyber Security Student | Aspiring Cybersecurity Professional | Python & Cloud Enthusiast
 
 I'm a BCA 5th Semester Cyber Security student passionate about Cybersecurity, Cloud Security, Python, Networking, Web Development, and Secure Software Development.
