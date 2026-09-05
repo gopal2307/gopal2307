@@ -1,21 +1,19 @@
-💫 Hi 👋, I'm Gopal Singh Rana
+👋 Hi, I'm Gopal Singh Rana
+🛡️ BCA Cyber Security Student | Aspiring Cybersecurity Professional | Python & Cloud Enthusiast
 
-A passionate Cloud Computing Student || Python Developer || Web Developer from India 🇮🇳
+I'm a BCA 5th Semester Cyber Security student passionate about Cybersecurity, Cloud Security, Python, Networking, Web Development, and Secure Software Development.
 
-I’m a BCA 5th Semester student specializing in Cloud Computing, interested in building practical projects around Cloud Computing, Web Development, Backend Development, Cybersecurity, and Automation.
+I enjoy building practical projects, learning security concepts, and exploring how modern applications and cloud environments can be secured.
 
-📫 Connect with me:
-
-💼 LinkedIn: Gopal Singh Rana
-💻 GitHub: gopal2307
-🔭 I’m currently working on: Cloud Monitoring & Security projects using Python, Flask, SQLite, and Cloud technologies
-🌱 I’m currently learning: Cloud Computing, AWS, DevOps, Linux, Networking, and Backend Development
-👯 I’m looking to collaborate on: Cloud, DevOps, Python, Web Development, and Cybersecurity projects
-🤔 I’m looking for help with: Building production-ready cloud applications and improving my DevOps skills
-💬 Ask me about: Python, C/C++, HTML, CSS, JavaScript, SQL, Git/GitHub, Cloud Computing, and Networking
-📫 How to reach me: Through LinkedIn or GitHub
-😄 Pronouns: Gopal
-⚡ Fun fact: I enjoy building projects, exploring new technologies, gaming, and watching anime 🎮
+🔐 What I'm Currently Doing
+🔭 Working on: Cybersecurity & Cloud Security projects
+🌱 Currently learning: Cybersecurity, Ethical Hacking, Networking, Linux, AWS & DevOps
+👯 Looking to collaborate on: Cybersecurity, Cloud Security, Python & Open Source projects
+🤝 Looking for opportunities: Cybersecurity internships, projects & collaborative learning
+💬 Ask me about: Python, C/C++, Networking, Linux, Git/GitHub, SQL & Cybersecurity fundamentals
+📚 Education: BCA — Cyber Security
+🎯 Goal: To build a strong career in Cybersecurity & Cloud Security
+⚡ Fun fact: I love exploring technology, building projects, gaming 🎮 and watching anime 🍿
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=gopal2307&theme=radical&no-frame=false&no-bg=true&margin-w=4)
